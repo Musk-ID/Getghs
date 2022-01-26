@@ -1,7 +1,6 @@
 # Getghs
 Script claim Ghs from web multicoin.ltd 
 ##### Info
-<img src="https://github.com/Musk-ID/Ltclick/blob/main/img.png" width="440" title="Menu" alt="Menu">
 <p align="center">
  <a href="https://github.com/Musk-ID">
     <img alt="Top Language" src="https://img.shields.io/github/languages/top/Musk-ID/Getghs.svg"/>
